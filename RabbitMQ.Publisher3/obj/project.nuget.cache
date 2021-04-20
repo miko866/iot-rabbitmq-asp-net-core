@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iTtvzsSok3mELJ8LZd8+tW+UAkRyyPmkwctg3gzvx9gr0gIiKAvPg3HKYcZtQXF38pGdfJjyBB1gVEJE81sOxw==",
+  "success": true,
+  "projectFilePath": "/home/miko866/Desktop/projects/IoT/asp-net-core/RabbitMQ.Publisher3/RabbitMQ.Publisher3.csproj",
+  "expectedPackageFiles": [
+    "/home/miko866/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/miko866/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/home/miko866/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/miko866/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
